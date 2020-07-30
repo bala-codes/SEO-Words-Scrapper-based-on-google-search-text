@@ -5,4 +5,5 @@ It will extract the metadata in the websites listed out in the google for the gi
 
 <img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/Gsearch.PNG" width="100%">
 
+<img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/word_count_and_frequency.PNG" width="100%">
 
