@@ -11,6 +11,7 @@ The most common and high frequency occuring words :
 <img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/Freq_distn.PNG" width="100%">
 <img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/word_cloud.png" width="100%">
 
-The most similar words extracted using Word Embeddings (GLOVE)
+## The most similar words extracted using Word Embeddings (GLOVE)
 <img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/Similar_words.PNG" width="100%">
 
+Run it for yourself at [Google Colab](https://colab.research.google.com/github/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/Scrapper.ipynb).
