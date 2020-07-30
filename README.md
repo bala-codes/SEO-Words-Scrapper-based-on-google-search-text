@@ -7,7 +7,7 @@ It will extract the metadata in the websites listed out in the google for the gi
 
 The most common and high frequency occuring words : 
 
-<img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/word_count_and_frequency.PNG" width="70%">
+<img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/word_count_and_frequency.PNG" width="50%">
 <img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/Freq_distn.PNG" width="100%">
 <img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/word_cloud.png" width="100%">
 
