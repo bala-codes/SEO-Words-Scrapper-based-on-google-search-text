@@ -1,4 +1,4 @@
-# SEO-Words-Scrapper-based-on-google-search-text
+# SEO WORDS EXTRACTOR FROM GOOGLE SEARCH RESULT.
 This project will show the potential SEO words and it's similar SEO words which can be used for the given google search text.
 It will extract the metadata in the websites listed out in the google for the given search text and it's search text suggestions.
 
