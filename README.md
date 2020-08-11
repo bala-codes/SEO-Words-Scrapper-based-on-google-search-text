@@ -14,3 +14,4 @@ The most common and high frequency occuring words :
 <img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/Similar_words.PNG" width="100%">
 
 Run it for yourself at [Google Colab](https://colab.research.google.com/github/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/Scrapper.ipynb).
+<img src="https://colab.research.google.com/github/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/Scrapper.ipynb" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width:100%;">
