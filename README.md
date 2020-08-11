@@ -13,8 +13,7 @@ The most common and high frequency occuring words :
 ## The most similar words extracted using Word Embeddings (GLOVE)
 <img src="https://github.com/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/imgs/Similar_words.PNG" width="100%">
 
-Run it for yourself at [Google Colab](https://colab.research.google.com/github/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/Scrapper.ipynb).
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/Scrapper.ipynb)
+Run it for yourself - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/SEO-Words-Scrapper-based-on-google-search-text/blob/master/Scrapper.ipynb)
 
 
 
